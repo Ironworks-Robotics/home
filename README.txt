@@ -1,4 +1,4 @@
-This is my first personal website, written in HTML, CSS, and Javascript.
+This is the FRC website.
 
 Colour Palette:
 - https://imagecolorpicker.com/en
